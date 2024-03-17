@@ -1,0 +1,588 @@
+.calculate__content__h2 {
+  text-align: center;
+  font-size: 36px;
+  font-weight: 400;
+  line-height: 36px;
+}
+.calculate__content__h2 > span {
+  font-weight: 700;
+}
+.calculate__content__txt {
+  text-align: center;
+  font-size: 25px;
+  font-weight: 600;
+  line-height: 19px;
+}
+.calculate__content__txt > span {
+  font-size: 20px;
+  font-weight: 300;
+  line-height: 15px;
+  color: #716a6b;
+}
+.calculate__content__cards__text {
+  text-align: center;
+  font-size: 18px;
+  font-weight: 600;
+  line-height: 20px;
+}
+.calculate__content__info__txt {
+  text-align: start;
+  font-size: 11px;
+  font-weight: 400;
+  line-height: 14px;
+}
+.calculate__content__info__txt > span {
+  font-weight: 600;
+}
+.calculate__content__info__btn {
+  font-size: 14px;
+  font-weight: 600;
+  line-height: 11px;
+  color: #fdfdfa;
+  background-color: #feaa01;
+  border: none;
+}
+.calculate__content__architector__name {
+  font-size: 25px;
+  font-weight: 600;
+  line-height: 19px;
+}
+.calculate__content__architector__role {
+  font-size: 13px;
+  font-weight: 400;
+  line-height: 10px;
+  color: #a09ea1;
+}
+.calculate__content__architector__answer {
+  color: #4b4747;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 12px;
+}
+.calculate__content__architector__sale {
+  color: #4b4747;
+  font-size: 13px;
+  font-weight: 400;
+  line-height: 14px;
+}
+.calculate__content__architector__sale > span {
+  font-weight: 600;
+}
+.calculate__content__architector-1 {
+  font-size: 41px;
+  font-weight: 700;
+  line-height: 43px;
+  color: #f5ba41;
+}
+.calculate__content__architector-2 {
+  font-size: 22px;
+  font-weight: 500;
+  line-height: 24px;
+  color: #f5ba41;
+}
+.calculate__content__architector-price-and-project {
+  background-color: #777779;
+  font-weight: 400;
+  font-size: 13px;
+  line-height: 14px;
+  color: #f3f3f3;
+}
+.calculate__content__architector-price-and-project > span {
+  font-weight: 600;
+}
+
+.ml-32 {
+  margin-left: 32px;
+}
+
+.ml-45 {
+  margin-left: 45px;
+}
+
+.mt-10 {
+  margin-top: 10px;
+}
+
+.mt-20 {
+  margin-top: 20px;
+}
+
+.fisrt-second {
+  margin-left: 44px;
+}
+
+.second-second {
+  margin-left: 59px;
+}
+
+.karkas {
+  margin-left: 160px;
+}
+
+.perfect {
+  text-align: start;
+}
+.perfect__h2 {
+  text-align: center;
+  font-size: 47px;
+  font-weight: 400;
+  line-height: 47px;
+}
+.perfect__h2 > span {
+  font-weight: 700;
+}
+.perfect__nav__a {
+  font-size: 18px;
+  font-weight: 600;
+  line-height: 49px;
+  text-decoration: none;
+  color: #333438;
+}
+.perfect__content__info__time {
+  font-size: 13px;
+  font-weight: 400;
+  line-height: 13px;
+}
+.perfect__content__info__time > span {
+  font-weight: 600;
+}
+.perfect__content__info__text {
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 19px;
+}
+.perfect__content__info__text > span {
+  font-size: 18px;
+  font-weight: 600;
+  line-height: 19px;
+}
+.perfect__content__info__question {
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 17px;
+}
+.perfect__content__info__question > span {
+  font-weight: 700;
+}
+.perfect__content__h3 {
+  font-size: 35px;
+  font-weight: 800;
+  line-height: 36px;
+  color: #4c4f56;
+}
+.perfect__content__btn {
+  font-size: 15px;
+  font-weight: 400;
+  line-height: 16px;
+  color: #505457;
+}
+
+.past {
+  text-align: start;
+}
+.past__h2 {
+  text-align: center;
+  font-size: 47px;
+  font-weight: 400;
+  line-height: 47px;
+}
+.past__h2 > span {
+  font-weight: 700;
+}
+.past__info__marker {
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 18px;
+  color: #85b73e;
+}
+.past__info__h3 {
+  font-size: 36px;
+  font-weight: 600;
+  line-height: 37px;
+  color: #4c4f56;
+}
+.past__info__price__key {
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 13px;
+}
+.past__info__price__values {
+  font-size: 28px;
+  font-weight: 700;
+  line-height: 29px;
+}
+.past__info__price__values > span {
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 17px;
+}
+.past__info__square__text {
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 19px;
+}
+.past__info__square__text > span {
+  font-weight: 600;
+}
+.past__info__calculate__text {
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 19px;
+}
+.past__info__calculate__text > span {
+  font-weight: 600;
+}
+.past__info__calculate__btn {
+  font-size: 13px;
+  font-weight: 700;
+  line-height: 17px;
+  color: #fcfcfe;
+  background-color: #feaa01;
+  border: none;
+}
+
+.consult {
+  text-align: start;
+}
+.consult__content__h2 {
+  font-size: 36px;
+  font-weight: 400;
+  line-height: 37px;
+}
+.consult__content__h2 > span {
+  font-weight: 700;
+}
+.consult__content__h4 {
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 20px;
+}
+.consult__content__group__text {
+  font-size: 13px;
+  font-weight: 400;
+  line-height: 14px;
+}
+.consult__content__group__text > span {
+  font-weight: 700;
+}
+.consult__content__form__label {
+  font-size: 13px;
+  font-weight: 300;
+  line-height: 14px;
+}
+.consult__content__form__button {
+  font-size: 13px;
+  font-weight: 700;
+  line-height: 18px;
+  color: #fcfcfe;
+  background: #feaa01;
+  border: none;
+}
+.consult__content__form__text {
+  font-size: 9px;
+  font-weight: 300;
+  line-height: 10px;
+}
+.consult__content__form__text-a {
+  font-weight: 600;
+}
+
+.catalog {
+  text-align: start;
+}
+.catalog__h2 {
+  font-size: 47px;
+  font-weight: 400;
+  line-height: 50px;
+}
+.catalog__h2 > span {
+  font-weight: 700;
+}
+.catalog__form {
+  text-align: center;
+}
+.catalog__form__h4 {
+  font-size: 24px;
+  font-weight: 300;
+  line-height: 27px;
+}
+.catalog__form__h4 > span {
+  font-weight: 700;
+}
+.catalog__form__txt {
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 17px;
+}
+.catalog__form__question {
+  font-size: 13px;
+  font-weight: 700;
+  line-height: 15px;
+}
+.catalog__form__icon-txt {
+  font-size: 13px;
+  font-weight: 400;
+  line-height: 17px;
+}
+.catalog__form__icon-txt__bold {
+  font-weight: 700;
+}
+.catalog__form__btn {
+  font-size: 13px;
+  font-weight: 700;
+  line-height: 17px;
+  color: #fcfcfe;
+  border: none;
+  background-color: #feaa01;
+}
+.catalog__form__info {
+  font-size: 9px;
+  font-weight: 300;
+  line-height: 10px;
+}
+.catalog__form__info__a {
+  font-weight: 600;
+}
+
+.testomonials {
+  text-align: start;
+}
+.testomonials__h2 {
+  text-align: center;
+  font-size: 47px;
+  font-weight: 400;
+  line-height: 50px;
+}
+.testomonials__h2 > span {
+  font-weight: 700;
+}
+.testomonials__content__card__name {
+  font-size: 20px;
+  font-weight: 700;
+  line-height: 20px;
+}
+.testomonials__content__card__date {
+  font-size: 13px;
+  font-weight: 400;
+  line-height: 13px;
+}
+.testomonials__content__card__text {
+  font-size: 13px;
+  font-weight: 400;
+  line-height: 18px;
+}
+.testomonials__content__card__a {
+  font-size: 13px;
+  font-weight: 500;
+  line-height: 18px;
+  color: #f3b43f;
+}
+
+.director {
+  text-align: start;
+}
+
+.director__content__info__h2 {
+  font-size: 47px;
+  font-weight: 400;
+  line-height: 48px;
+}
+
+.director__content__info__h2 > span {
+  font-weight: 700;
+}
+
+.director__content__info__text {
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 20px;
+}
+
+.director__content__info__exp__text {
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 19px;
+}
+
+.director__content__info__exp__text > span {
+  font-size: 47px;
+  font-weight: 700;
+  line-height: 48px;
+}
+
+.faq {
+  text-align: start;
+}
+.faq__h2 {
+  font-size: 47px;
+  font-weight: 400;
+  line-height: 48px;
+}
+.faq__h2 > span {
+  font-weight: 700;
+}
+.faq__text {
+  font-size: 11px;
+  font-weight: 400;
+  line-height: 15px;
+}
+.faq__text > span {
+  font-weight: 600;
+}
+.faq__accardeon__text {
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 21px;
+}
+.faq__accardeon__text__up {
+  font-size: 11px;
+  font-weight: 400;
+  line-height: 16px;
+}
+.faq__accardeon__text__up > span {
+  font-weight: 600;
+}
+
+.form__content {
+  text-align: start;
+}
+.form__content__h2 {
+  font-size: 36px;
+  font-weight: 400;
+  line-height: 38px;
+}
+.form__content__h2 > span {
+  font-weight: 700;
+}
+.form__content__question {
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 18px;
+}
+.form__content__text {
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 13px;
+}
+.form__content__text > span {
+  font-weight: 700;
+}
+.form__form {
+  text-align: center;
+}
+.form__form__h4 {
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 19px;
+}
+.form__form__txt {
+  font-size: 13px;
+  font-weight: 400;
+  line-height: 14px;
+}
+.form__form__question {
+  font-size: 14px;
+  font-weight: 700;
+  line-height: 14px;
+}
+.form__form__icon-txt {
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 18px;
+}
+.form__form__icon-txt__bold {
+  font-weight: 700;
+}
+.form__form__btn {
+  font-size: 14px;
+  font-weight: 700;
+  line-height: 18px;
+  color: #fcfcfe;
+  background-color: #feaa01;
+  border: none;
+}
+.form__form__info {
+  color: #413e3f;
+  font-size: 10px;
+  font-weight: 300;
+  line-height: 11px;
+}
+.form__form__info__a {
+  font-weight: 600;
+}
+
+.contants__contain {
+  text-align: start;
+}
+.contants__contain__h3 {
+  font-size: 20px;
+  font-weight: 700;
+  line-height: 22px;
+}
+.contants__contain__addres {
+  font-size: 13px;
+  font-weight: 400;
+  line-height: 14px;
+}
+.contants__contain__time {
+  font-size: 10px;
+  font-weight: 400;
+  line-height: 10px;
+}
+.contants__contain__number {
+  font-size: 24px;
+  font-weight: 700;
+  line-height: 26px;
+}
+.contants__contain__recall {
+  font-size: 15px;
+  font-weight: 700;
+  line-height: 16px;
+  color: #8cb746;
+}
+.contants__contain__we {
+  font-size: 13px;
+  font-weight: 700;
+  line-height: 14px;
+}
+.contants__contain__btn {
+  font-size: 14px;
+  font-weight: 700;
+  line-height: 18px;
+  color: #fcfcfe;
+  background-color: #84b63d;
+  border: none;
+}
+.contants__map {
+  text-align: start;
+}
+.contants__map__text {
+  font-size: 20px;
+  font-weight: 700;
+  line-height: 25px;
+}
+
+.footer {
+  background-color: #4c4f56;
+}
+.footer__nav__a {
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 19px;
+  color: #fbffff;
+  text-decoration: none;
+}
+.footer__text__txt {
+  font-size: 15px;
+  font-weight: 500;
+  line-height: 18px;
+  color: #ffffff;
+}
+.footer__text__a {
+  font-size: 15px;
+  font-weight: 500;
+  line-height: 18px;
+  color: #e5b53e;
+}
+
+/*# sourceMappingURL=temp.css.map */
